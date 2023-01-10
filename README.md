@@ -8,7 +8,7 @@ Avaliação da terceira sprint do programa de bolsas Compass.uol para formação
 
 ----
 ## Requisitos
-- IDE
+- IDE(VSCode)
 - Python
 - SGBD
 - TensorFlow
@@ -28,3 +28,4 @@ Tamanho do download : 218.21MB
 Tamanho do conjunto de dados : 221.83MB
 
 ----
+
